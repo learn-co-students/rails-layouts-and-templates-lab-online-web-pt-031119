@@ -1,1 +1,4 @@
-<h1>Hello World!</h1>
+class StaticController < ApplicationController
+  def home
+  end
+end
